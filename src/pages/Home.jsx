@@ -11,7 +11,8 @@ import {
   Search,
   Layout,
   BarChart,
-  ShieldCheck
+  ShieldCheck,
+  X
 } from 'lucide-react';
 
 export default function Home() {
